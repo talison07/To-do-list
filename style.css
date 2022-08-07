@@ -112,7 +112,7 @@ p{
     box-sizing: border-box;
 }
 
-#new{
+#novo{
     position: absolute;
     top: 50%;
     transform: translateY(-50%);
@@ -122,7 +122,7 @@ p{
     border: solid 1.5px gray ;
 }
 
-#new::placeholder{
+#novo::placeholder{
     color: gray;
 }
 
